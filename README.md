@@ -307,7 +307,6 @@ Through this project, I learned:
 ---
 
 ## Author
-Snehal Vhasure
-Full Stack Developer | AI Enthusiast 
+Snehal Vhasure | Full Stack Developer | AI Enthusiast | GenAI and AgenticAI Learner
 
 This project was built as part of my Deep Learning and Computer Vision learning journey to understand how CNNs improve upon traditional ANN architectures for image-based applications.
