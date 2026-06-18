@@ -223,7 +223,7 @@ CNN successfully addresses several limitations observed in the ANN implementatio
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/CNN-CIFAR10-CCTV-Classification.git
+git clone https://github.com/snehalvhasure/CNN-CIFAR10-CCTV-Classification
 ```
 
 Move into project directory:
