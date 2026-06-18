@@ -219,21 +219,6 @@ CNN successfully addresses several limitations observed in the ANN implementatio
 
 ---
 
-## Project Structure
-```text
-CNN-CIFAR10-CCTV-Classification/
-│
-├── cifar10_cnn_cctv_project.py
-├── README.md
-├── requirements.txt
-├── screenshots/
-│   ├── training_accuracy.png
-│   ├── model_summary.png
-│   └── webcam_prediction.png
-│
-└── outputs/
-```
-
 ## Installation
 Clone the repository:
 
